@@ -1,0 +1,2 @@
+1 we need know what kind of pipeline that we really need to build 
+two types of pipelines 1.train pipeline 2prediction pipeine

@@ -1,0 +1,4 @@
+in this components folder it will be created as a package so that we can export it to the some other file locations and another word it is an moodules
+data ingestion - reading a dataset from the `specific database in any location is called data ingestion
+it is a part of module
+the wholle components is specifically for the training purpose
